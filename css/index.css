@@ -16,6 +16,8 @@ a{
     text-decoration: none;
 }
 /*============model css===========*/
+
+/*导航*/
 .qq_nav{
     height: 150px;
     background: url("../images/nav_bg.png") repeat-x;
@@ -88,7 +90,7 @@ a{
 }
 
 
-
+/*展示*/
 .qq_banner{
     height: 880px;
     background: url("../images/banner-bg.jpg") no-repeat center top;
@@ -101,13 +103,12 @@ a{
 }
 .qq_banner img:last-child{
     width: 100%;
-    /*自适应  等比例缩放  图片有这个特殊效果  */
 }
 
 
 
 
-
+/*语音*/
 .qq_sound{
 
 }
@@ -152,7 +153,7 @@ a{
 
 
 
-
+/*文件*/
 .qq_file{}
 .qq_file .bg{
     height: 500px;
@@ -192,7 +193,7 @@ a{
 
 
 
-
+/*兴趣*/
 .qq_interest{}
 .qq_interest .bg{
     height: 500px;
@@ -231,7 +232,7 @@ a{
 
 
 
-
+/*底部*/
 .qq_footer{
     height: 250px;
     background: #2a2a2a;
